@@ -1,6 +1,6 @@
 # Community Changing Users
 
-This is the [dataset](https://link-url-here.org](https://drive.google.com/file/d/1-KSWO9RyHuzPUfeL-Gz5aA2eB6lMAEtk/view?usp=sharing) used in our paper:
+This is the [dataset](https://drive.google.com/file/d/1-KSWO9RyHuzPUfeL-Gz5aA2eB6lMAEtk/view?usp=sharing) used in our paper:
 
 Federico Albanese, Esteban Feuerstein, Leandro Lombardi, Pablo Balenzuela, Characterizing community changing users using text mining and graph machine learning on Twitter (AMW 2023)
 
