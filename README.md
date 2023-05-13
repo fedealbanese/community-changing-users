@@ -4,7 +4,7 @@ This is the dataset used in our paper:
 
 Federico Albanese, Esteban Feuerstein, Leandro Lombardi, Pablo Balenzuela, Characterizing community changing users using text mining and graph machine learning on Twitter (AMW 2023)
 
-Abstract. Even though the Internet and social media have increased
+**Abstract**. Even though the Internet and social media have increased
 the amount of news and information people can consume, most users are
 only exposed to content that reinforces their positions and isolates them
 from other ideological communities. This environment has real conse-
